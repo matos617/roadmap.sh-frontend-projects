@@ -1,7 +1,9 @@
 # roadmap.sh-frontend-projects
+
 Front-end projects coming from <a href="https://roadmap.sh/frontend/projects">roadmap.sh</a> site.
 
-Click on any of the images to go to my project
+## Projects List
+Click on any of the images to go to my project.
 
 <a href="https://roadmap.sh/projects/single-page-cv"> Single-Page </a>
 
